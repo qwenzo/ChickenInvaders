@@ -1,0 +1,15 @@
+﻿  OpenGL2DTemplate.cpp
+c:\users\mohamed\desktop\guc\7th\graphics\opengl2dtemplate_26931 - copy - copy - copy\opengl2dtemplate\opengl2dtemplate.cpp(339): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\desktop\guc\7th\graphics\opengl2dtemplate_26931 - copy - copy - copy\opengl2dtemplate\opengl2dtemplate.cpp(358): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\desktop\guc\7th\graphics\opengl2dtemplate_26931 - copy - copy - copy\opengl2dtemplate\opengl2dtemplate.cpp(380): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\desktop\guc\7th\graphics\opengl2dtemplate_26931 - copy - copy - copy\opengl2dtemplate\opengl2dtemplate.cpp(407): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\desktop\guc\7th\graphics\opengl2dtemplate_26931 - copy - copy - copy\opengl2dtemplate\opengl2dtemplate.cpp(655): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\desktop\guc\7th\graphics\opengl2dtemplate_26931 - copy - copy - copy\opengl2dtemplate\opengl2dtemplate.cpp(658): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\desktop\guc\7th\graphics\opengl2dtemplate_26931 - copy - copy - copy\opengl2dtemplate\opengl2dtemplate.cpp(662): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\desktop\guc\7th\graphics\opengl2dtemplate_26931 - copy - copy - copy\opengl2dtemplate\opengl2dtemplate.cpp(666): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohamed\desktop\guc\7th\graphics\opengl2dtemplate_26931 - copy - copy - copy\opengl2dtemplate\opengl2dtemplate.cpp(704): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\mohamed\desktop\guc\7th\graphics\opengl2dtemplate_26931 - copy - copy - copy\opengl2dtemplate\opengl2dtemplate.cpp(707): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+OpenGL2DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL2DTemplate.vcxproj -> C:\Users\Mohamed\Desktop\GUC\7th\graphics\OpenGL2DTemplate_26931 - Copy - Copy - Copy\OpenGL2DTemplate\Debug\OpenGL2DTemplate.exe
